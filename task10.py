@@ -1,4 +1,3 @@
-NO 10
 def common_letters(str1, str2):
     s1 = set(str1)
     s2 = set(str2)
